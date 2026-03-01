@@ -1,0 +1,45 @@
+//Here's prompt to enchance any project.
+
+"
+I am providing you with a basic JavaScript project file.
+
+Your task is to enhance and refactor the project WITHOUT changing its original logic, insights, or core functionality.
+
+Requirements:
+
+1. Improve code readability and structure.
+2. Use meaningful variable and function names.
+3. Apply clean formatting and proper indentation.
+4. Add professional comments explaining sections.
+5. Convert logic into reusable functions if possible.
+6. Keep it easily executable using Node.js.
+7. Improve console output formatting (use console.table if applicable).
+8. Follow ES6+ best practices.
+9. Do NOT overcomplicate the project or change its main concept.
+10. Make it look professional enough to upload on GitHub.
+
+Additionally:
+
+11. Provide a complete, well-structured README.md file.
+12. The README must include:
+   - Project Title
+   - Project Description
+   - Features
+   - Tech Stack
+   - Project Structure
+   - How to Run
+   - Learning Outcomes
+   - Future Improvements
+   - Author Section
+13. The README should look professional and impressive but beginner-friendly.
+
+Output Format:
+
+- First: Provide the enhanced JavaScript file.
+- Then: Provide the complete README.md content separately.
+- Optionally: Suggest small professional improvements for future scaling.
+
+Do not remove the original project idea.
+Do not add unnecessary complexity.
+Focus on clarity, professionalism, and GitHub presentation quality.
+"
