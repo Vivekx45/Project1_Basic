@@ -54,10 +54,10 @@ console.log("\n📗 Fictional Books Published After 1995:");
 console.table(getFictionAfter1995(books));
 
 /**
- * -----------------------------------------------------
+ * ------------------------------------------------------
  * Conclusion:
  * The Array.filter() method allows efficient data
  * extraction from datasets based on given conditions.
- * -----------------------------------------------------
+ * ------------------------------------------------------
  */
 
