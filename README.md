@@ -1,5 +1,5 @@
 # Minor-Project-of-JavaScript
-Here I have tested some minor projects which are helpful to comprehend the core JavaScript......
+Here I have tested a minor project which is helpful to comprehend the core JavaScript......
 
 # 📚 Book Data Filtering Project
 
