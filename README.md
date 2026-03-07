@@ -46,5 +46,7 @@ A simple JavaScript project demonstrating the use of the `Array.filter()` method
 ## 🧠 Author
 
 **Vivek Tetwal**
+
+---
 Here we have also provided an excellent prompt to enhance our basic projects into readable and engaging format.
 If you found this helpful, feel free to ⭐ the repository.
